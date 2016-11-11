@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="23" pc="268435456" symbol="onLayout"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="24" pc="268435460" symbol="onLayout"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="25" pc="268435473" symbol="onLayout"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="26" pc="268435483" symbol="onLayout"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="27" pc="268435493" symbol="onLayout"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="30" pc="268435504" symbol="onHide"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="34" pc="268435509" symbol="onShow"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="38" pc="268435514" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="39" pc="268435518" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="42" pc="268435518" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="43" pc="268435554" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="44" pc="268435566" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="45" pc="268435602" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="47" pc="268435619" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="48" pc="268435633" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="51" pc="268435713" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="54" pc="268435779" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="55" pc="268435793" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="56" pc="268435806" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="57" pc="268435840" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="58" pc="268435903" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="59" pc="268435963" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="60" pc="268435977" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="63" pc="268436043" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="67" pc="268436148" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="68" pc="268436182" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="69" pc="268436245" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="70" pc="268436305" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="71" pc="268436319" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="74" pc="268436385" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="78" pc="268436451" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="82" pc="268436529" symbol="onUpdate"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="87" pc="268436593" symbol="setPosition"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="88" pc="268436597" symbol="setPosition"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="89" pc="268436607" symbol="setPosition"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="92" pc="268436624" symbol="setBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="93" pc="268436628" symbol="setBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="94" pc="268436642" symbol="setBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="95" pc="268436652" symbol="setBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="98" pc="268436671" symbol="setBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="99" pc="268436702" symbol="setBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="100" pc="268436712" symbol="setBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="101" pc="268436722" symbol="setBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="106" pc="268436739" symbol="unsetBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="107" pc="268436743" symbol="unsetBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="108" pc="268436757" symbol="unsetBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="109" pc="268436767" symbol="unsetBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="112" pc="268436786" symbol="unsetBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="113" pc="268436799" symbol="unsetBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="114" pc="268436809" symbol="unsetBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeView.mc" lineNum="115" pc="268436819" symbol="unsetBaseAlt"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeDelegate.mc" lineNum="7" pc="268436837" symbol="onKey"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeDelegate.mc" lineNum="8" pc="268436841" symbol="onKey"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeDelegate.mc" lineNum="9" pc="268436858" symbol="onKey"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeDelegate.mc" lineNum="10" pc="268436871" symbol="onKey"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeDelegate.mc" lineNum="11" pc="268436889" symbol="onKey"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeDelegate.mc" lineNum="13" pc="268436910" symbol="onKey"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeDelegate.mc" lineNum="14" pc="268436928" symbol="onKey"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeApp.mc" lineNum="16" pc="268436951" symbol="onStart"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeApp.mc" lineNum="17" pc="268436955" symbol="onStart"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeApp.mc" lineNum="21" pc="268437000" symbol="onStop"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeApp.mc" lineNum="22" pc="268437004" symbol="onStop"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeApp.mc" lineNum="25" pc="268437049" symbol="onPosition"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeApp.mc" lineNum="26" pc="268437053" symbol="onPosition"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeApp.mc" lineNum="30" pc="268437074" symbol="getInitialView"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeApp.mc" lineNum="31" pc="268437078" symbol="getInitialView"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeApp.mc" lineNum="32" pc="268437108" symbol="getInitialView"/>
+<entry filename="/Users/lancewilhelm/Desktop/CompSci/eclipse/AGAltitude/source/AGAltitudeApp.mc" lineNum="33" pc="268437138" symbol="getInitialView"/>
+<entry filename="Rez" lineNum="15" pc="268437179" symbol="initialize"/>
+<entry filename="Rez" lineNum="16" pc="268437183" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268437201" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268437253" symbol="initialize"/>
+<entry filename="Rez" lineNum="34" pc="268437306" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268437310" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268437473" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268437498" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268437550" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268437666" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="43" pc="268437718" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="30" method="true" symbol="setBaseAlt"/>
+<entry id="22" object="true" symbol="MainMenu"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388640" symbol="Lang"/>
+<entry id="23" method="true" symbol="MainLayout"/>
+<entry field="true" id="15" symbol="mainView"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="31" method="true" symbol="unsetBaseAlt"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="27" symbol="AppName"/>
+<entry field="true" id="11" symbol="baseAltSet"/>
+<entry id="33" symbol="item_2"/>
+<entry id="32" symbol="item_1"/>
+<entry id="8388641" symbol="Math"/>
+<entry field="true" id="21" symbol="LauncherIcon"/>
+<entry field="true" id="25" symbol="menu_label_2"/>
+<entry field="true" id="24" symbol="menu_label_1"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389065" symbol="locY"/>
+<entry id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="10" symbol="unsettingBaseAlt"/>
+<entry field="true" id="20" symbol="id_monkey"/>
+<entry field="true" id="16" symbol="mainDelegate"/>
+<entry id="8389348" symbol="font"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="28" symbol="posnInfo"/>
+<entry id="17" method="true" symbol="onPosition"/>
+<entry id="12" object="true" symbol="AGAltitudeView"/>
+<entry id="19" module="true" symbol="Layouts"/>
+<entry id="8388642" symbol="Position"/>
+<entry field="true" id="26" symbol="prompt"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8389346" symbol="text"/>
+<entry id="29" method="true" symbol="setPosition"/>
+<entry id="8389063" symbol="identifier"/>
+<entry field="true" id="8" symbol="baseAlt"/>
+<entry id="14" object="true" symbol="AGAltitudeApp"/>
+<entry field="true" id="9" symbol="settingBaseAlt"/>
+<entry id="18" module="true" symbol="Menus"/>
+<entry id="13" object="true" symbol="AGAltitudeDelegate"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436592" name="devicesettings" stackId="3" startPc="268435518"/>
+<entry endPc="268436592" name="string" stackId="2" startPc="268435518"/>
+<entry endPc="268436949" name="key" stackId="3" startPc="268436841"/>
+<entry endPc="268436949" name="app" stackId="2" startPc="268436841"/>
+<entry endPc="268437745" name="rez_cmp_local_bitmap_A1CRXMG432_fontHeight" stackId="3" startPc="268437310"/>
+<entry endPc="268437745" name="rez_cmp_local_bitmap_id_monkey" stackId="4" startPc="268437310"/>
+<entry endPc="268437745" name="rez_cmp_local_bitmap_A1CRXMG432" stackId="2" startPc="268437310"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="onLayout" parent="AGAltitudeView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="AGAltitudeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="AGAltitudeView">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="AGAltitudeView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="setPosition" parent="AGAltitudeView">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="setBaseAlt" parent="AGAltitudeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="unsetBaseAlt" parent="AGAltitudeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onKey" parent="AGAltitudeDelegate">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="AGAltitudeApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onStop" parent="AGAltitudeApp">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onPosition" parent="AGAltitudeApp">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="AGAltitudeApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>
